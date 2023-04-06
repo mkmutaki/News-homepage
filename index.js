@@ -9,11 +9,3 @@ burger.addEventListener("click", function () {
 closed.addEventListener("click", function () {
   menu.classList.add("hidden");
 });
-
-// close.addEventListener("click", function () {
-//   if (menu.classList.contains("hidden")) {
-//     menu.classList.add("hidden");
-//   } else {
-//     menu.classList.remove("hidden");
-//   }
-// });
